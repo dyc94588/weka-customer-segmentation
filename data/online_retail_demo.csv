@@ -1,0 +1,501 @@
+CustomerID,TotalAmount,OrderCount,ActiveDays,ProductVariety,AvgOrderValue,Country,Channel,PaymentMethod,ProductCategory,CustomerValue
+C0001,8958.69,13,94,3,689.13,France,Email,PayPal,Stationery,Medium
+C0002,7286.88,6,34,3,1214.48,United Kingdom,Social Media,Debit Card,Stationery,Medium
+C0003,7573.26,6,41,3,1262.21,Netherlands,Email,Credit Card,Home Decor,Medium
+C0004,3303.00,10,83,1,330.30,United Kingdom,Social Media,Debit Card,Kitchenware,Low
+C0005,1584.44,4,32,1,396.11,United Kingdom,Email,Bank Transfer,Kitchenware,Low
+C0006,7759.32,6,48,3,1293.22,France,Organic Search,Credit Card,Giftware,High
+C0007,12008.08,7,72,5,1715.44,Netherlands,Social Media,Bank Transfer,Stationery,High
+C0008,6393.54,6,68,3,1065.59,Netherlands,Email,Debit Card,Home Decor,Medium
+C0009,8878.70,10,87,3,887.87,France,Email,Credit Card,Giftware,Medium
+C0010,663.74,1,9,1,663.74,France,Social Media,Credit Card,Home Decor,Low
+C0011,10160.78,14,118,4,725.77,United Kingdom,Email,Credit Card,Stationery,High
+C0012,584.07,1,16,1,584.07,Germany,Paid Ads,Credit Card,Stationery,Low
+C0013,1267.32,3,31,1,422.44,Netherlands,Social Media,Credit Card,Giftware,Low
+C0014,8152.95,13,106,3,627.15,Netherlands,Organic Search,Credit Card,Kitchenware,Medium
+C0015,10690.62,6,33,3,1781.77,Germany,Email,Debit Card,Stationery,High
+C0016,8784.82,11,104,2,798.62,USA,Paid Ads,Credit Card,Stationery,High
+C0017,1169.10,6,63,1,194.85,United Kingdom,Social Media,Credit Card,Stationery,Low
+C0018,2188.56,4,9,1,547.14,Australia,Email,Debit Card,Textiles,Low
+C0019,12751.09,11,96,4,1159.19,United Kingdom,Referral,PayPal,Home Decor,High
+C0020,1931.85,3,25,2,643.95,Netherlands,Email,Credit Card,Kitchenware,Low
+C0021,2338.50,6,75,1,389.75,Australia,Social Media,PayPal,Stationery,Low
+C0022,14702.05,11,105,4,1336.55,France,Social Media,PayPal,Giftware,High
+C0023,859.89,1,8,2,859.89,France,Email,Debit Card,Kitchenware,Low
+C0024,10456.60,10,79,3,1045.66,France,Paid Ads,Credit Card,Stationery,High
+C0025,8059.25,5,53,5,1611.85,France,Paid Ads,PayPal,Stationery,High
+C0026,1693.28,4,32,1,423.32,Germany,Social Media,Debit Card,Textiles,Low
+C0027,10426.00,13,112,3,802.00,Australia,Paid Ads,Credit Card,Giftware,High
+C0028,15554.40,12,104,5,1296.20,United Kingdom,Social Media,Credit Card,Kitchenware,High
+C0029,9277.84,13,112,4,713.68,Germany,Paid Ads,Debit Card,Stationery,High
+C0030,5855.52,12,98,2,487.96,Netherlands,Referral,Debit Card,Kitchenware,Medium
+C0031,3323.43,3,48,2,1107.81,France,Organic Search,Credit Card,Stationery,Medium
+C0032,2246.36,4,8,1,561.59,United Kingdom,Paid Ads,PayPal,Home Decor,Low
+C0033,8435.79,11,84,3,766.89,France,Email,Debit Card,Textiles,Medium
+C0034,2422.35,5,43,3,484.47,France,Paid Ads,Credit Card,Stationery,Low
+C0035,2288.64,4,41,2,572.16,Australia,Social Media,Debit Card,Textiles,Low
+C0036,3881.65,5,47,3,776.33,USA,Organic Search,Debit Card,Textiles,Low
+C0037,7870.94,11,94,3,715.54,France,Referral,Credit Card,Home Decor,Medium
+C0038,6146.55,5,51,4,1229.31,France,Organic Search,PayPal,Giftware,Medium
+C0039,3516.20,5,30,1,703.24,France,Email,Bank Transfer,Kitchenware,Low
+C0040,17795.18,13,115,5,1368.86,Netherlands,Email,Credit Card,Stationery,High
+C0041,1276.20,4,41,1,319.05,Germany,Social Media,Debit Card,Kitchenware,Low
+C0042,1634.60,10,88,2,163.46,Australia,Email,Credit Card,Kitchenware,Low
+C0043,7494.15,5,31,3,1498.83,USA,Referral,Credit Card,Textiles,High
+C0044,14464.60,10,111,4,1446.46,Netherlands,Social Media,Credit Card,Textiles,High
+C0045,11351.20,8,73,4,1418.90,Netherlands,Email,Credit Card,Home Decor,High
+C0046,7714.80,8,86,2,964.35,Australia,Organic Search,Debit Card,Textiles,High
+C0047,7560.90,10,85,2,756.09,Netherlands,Organic Search,Debit Card,Giftware,Medium
+C0048,1312.04,2,9,1,656.02,Netherlands,Email,PayPal,Stationery,Low
+C0049,918.41,1,11,3,918.41,USA,Social Media,Credit Card,Stationery,Low
+C0050,5713.68,12,91,1,476.14,United Kingdom,Email,Debit Card,Kitchenware,Medium
+C0051,20279.42,14,108,5,1448.53,Germany,Social Media,Debit Card,Giftware,High
+C0052,4819.44,6,53,2,803.24,United Kingdom,Organic Search,Bank Transfer,Stationery,Medium
+C0053,13569.00,10,86,4,1356.90,France,Organic Search,Credit Card,Home Decor,High
+C0054,4848.90,7,53,2,692.70,Australia,Referral,Bank Transfer,Textiles,Low
+C0055,5691.18,11,91,3,517.38,Netherlands,Email,Credit Card,Home Decor,Medium
+C0056,8493.31,7,82,4,1213.33,USA,Referral,Credit Card,Home Decor,High
+C0057,2516.88,3,27,3,838.96,Australia,Referral,Credit Card,Giftware,Low
+C0058,8352.05,7,66,3,1193.15,Germany,Referral,PayPal,Home Decor,High
+C0059,17397.84,12,98,5,1449.82,Netherlands,Social Media,PayPal,Stationery,High
+C0060,3308.28,6,32,2,551.38,France,Organic Search,Debit Card,Textiles,Low
+C0061,2768.74,13,108,2,212.98,USA,Email,PayPal,Home Decor,Medium
+C0062,6503.85,5,47,4,1300.77,USA,Organic Search,Credit Card,Stationery,High
+C0063,6968.76,12,104,2,580.73,Netherlands,Referral,Bank Transfer,Textiles,Medium
+C0064,1367.49,3,28,2,455.83,France,Organic Search,Debit Card,Giftware,Low
+C0065,4717.30,5,35,2,943.46,United Kingdom,Social Media,Credit Card,Textiles,Medium
+C0066,237.54,1,19,1,237.54,France,Paid Ads,Credit Card,Kitchenware,Low
+C0067,11067.52,8,65,4,1383.44,Australia,Social Media,Credit Card,Stationery,High
+C0068,6485.04,8,72,2,810.63,Netherlands,Referral,Bank Transfer,Kitchenware,Medium
+C0069,5852.88,8,73,3,731.61,Netherlands,Email,Credit Card,Home Decor,Medium
+C0070,13203.19,11,113,4,1200.29,Netherlands,Referral,Debit Card,Stationery,High
+C0071,1668.54,3,33,1,556.18,United Kingdom,Organic Search,Credit Card,Textiles,Low
+C0072,5112.32,4,38,2,1278.08,France,Paid Ads,PayPal,Textiles,Medium
+C0073,10631.36,8,71,4,1328.92,Netherlands,Email,Debit Card,Stationery,High
+C0074,6063.64,11,77,1,551.24,USA,Social Media,Credit Card,Kitchenware,Medium
+C0075,7328.82,6,59,3,1221.47,Netherlands,Social Media,Credit Card,Kitchenware,High
+C0076,9638.40,12,104,3,803.20,Germany,Email,Credit Card,Giftware,High
+C0077,8859.84,6,66,3,1476.64,Germany,Referral,Debit Card,Stationery,High
+C0078,19208.00,14,110,5,1372.00,Netherlands,Social Media,PayPal,Giftware,High
+C0079,4505.12,4,37,2,1126.28,Australia,Paid Ads,Credit Card,Stationery,Medium
+C0080,9809.73,9,74,3,1089.97,France,Email,PayPal,Home Decor,High
+C0081,9287.04,12,120,3,773.92,Australia,Email,Debit Card,Textiles,High
+C0082,3794.40,8,57,2,474.30,Australia,Email,Credit Card,Giftware,Low
+C0083,2418.78,6,67,1,403.13,Germany,Organic Search,Credit Card,Kitchenware,Low
+C0084,5908.60,10,67,2,590.86,Germany,Organic Search,PayPal,Stationery,Low
+C0085,14878.60,11,90,4,1352.60,Australia,Social Media,Debit Card,Textiles,High
+C0086,5357.40,12,109,4,446.45,United Kingdom,Organic Search,Bank Transfer,Textiles,Medium
+C0087,4747.59,3,15,4,1582.53,France,Paid Ads,Credit Card,Stationery,Medium
+C0088,10617.18,14,108,3,758.37,Australia,Social Media,PayPal,Textiles,High
+C0089,5245.87,7,54,2,749.41,United Kingdom,Social Media,Credit Card,Stationery,Medium
+C0090,3294.40,5,53,1,658.88,Australia,Paid Ads,PayPal,Stationery,Low
+C0091,22094.02,13,117,5,1699.54,USA,Organic Search,Credit Card,Kitchenware,High
+C0092,4691.76,3,32,4,1563.92,United Kingdom,Organic Search,PayPal,Textiles,High
+C0093,8318.08,8,58,3,1039.76,Netherlands,Social Media,Credit Card,Textiles,Medium
+C0094,2460.48,4,41,2,615.12,Netherlands,Email,PayPal,Giftware,Low
+C0095,5964.63,7,46,3,852.09,France,Social Media,Credit Card,Giftware,Medium
+C0096,2479.10,5,45,2,495.82,Australia,Social Media,PayPal,Giftware,Low
+C0097,5524.25,5,50,4,1104.85,United Kingdom,Paid Ads,Debit Card,Stationery,Medium
+C0098,4114.95,3,14,4,1371.65,USA,Email,Debit Card,Home Decor,Medium
+C0099,706.80,4,29,1,176.70,Australia,Paid Ads,PayPal,Home Decor,Low
+C0100,4814.64,6,48,3,802.44,Netherlands,Referral,Credit Card,Home Decor,Medium
+C0101,11357.70,10,91,3,1135.77,Germany,Referral,Bank Transfer,Home Decor,High
+C0102,2414.92,4,49,1,603.73,United Kingdom,Email,Credit Card,Home Decor,Low
+C0103,1243.32,2,12,1,621.66,USA,Organic Search,PayPal,Giftware,Low
+C0104,3145.28,8,67,2,393.16,Netherlands,Referral,Credit Card,Textiles,Low
+C0105,8935.01,7,68,4,1276.43,USA,Paid Ads,Credit Card,Textiles,High
+C0106,11869.92,8,68,4,1483.74,Australia,Referral,Credit Card,Textiles,High
+C0107,6331.55,5,41,3,1266.31,Netherlands,Email,Debit Card,Giftware,Medium
+C0108,409.75,5,46,1,81.95,Germany,Email,Credit Card,Home Decor,Low
+C0109,10073.34,6,52,4,1678.89,France,Referral,Credit Card,Kitchenware,High
+C0110,6598.14,6,54,3,1099.69,Australia,Email,PayPal,Giftware,Medium
+C0111,11075.52,8,53,4,1384.44,USA,Email,Credit Card,Textiles,High
+C0112,18292.44,12,96,5,1524.37,Germany,Paid Ads,Credit Card,Kitchenware,High
+C0113,9417.59,7,60,3,1345.37,Australia,Organic Search,Debit Card,Textiles,High
+C0114,3170.38,2,22,4,1585.19,USA,Organic Search,Credit Card,Giftware,High
+C0115,5135.50,10,69,2,513.55,United Kingdom,Referral,PayPal,Kitchenware,Low
+C0116,5479.70,5,40,2,1095.94,Germany,Social Media,Debit Card,Kitchenware,Medium
+C0117,1990.72,4,30,1,497.68,Netherlands,Social Media,Debit Card,Giftware,Low
+C0118,5850.53,7,43,1,835.79,Australia,Paid Ads,Credit Card,Giftware,Low
+C0119,10752.90,10,78,4,1075.29,Netherlands,Paid Ads,Debit Card,Kitchenware,High
+C0120,2406.78,3,17,2,802.26,Germany,Social Media,Credit Card,Giftware,Low
+C0121,8429.89,7,68,4,1204.27,France,Referral,PayPal,Stationery,High
+C0122,8121.68,8,56,5,1015.21,USA,Social Media,Credit Card,Stationery,Medium
+C0123,4700.70,5,48,2,940.14,USA,Email,Credit Card,Textiles,Medium
+C0124,2111.46,2,18,2,1055.73,United Kingdom,Paid Ads,Credit Card,Textiles,Low
+C0125,9145.20,12,93,2,762.10,Netherlands,Referral,PayPal,Stationery,Medium
+C0126,1593.80,4,50,1,398.45,USA,Referral,Bank Transfer,Giftware,Low
+C0127,3673.74,6,43,1,612.29,United Kingdom,Organic Search,Credit Card,Home Decor,Low
+C0128,10132.08,6,38,4,1688.68,Australia,Paid Ads,Debit Card,Kitchenware,High
+C0129,2355.92,8,70,1,294.49,United Kingdom,Organic Search,Credit Card,Textiles,Low
+C0130,2646.14,7,59,2,378.02,Germany,Organic Search,Debit Card,Stationery,Low
+C0131,3055.89,3,24,3,1018.63,Germany,Social Media,Bank Transfer,Home Decor,Low
+C0132,2831.08,7,50,2,404.44,Australia,Referral,Credit Card,Home Decor,Low
+C0133,5821.70,10,81,2,582.17,USA,Referral,Credit Card,Textiles,Medium
+C0134,14368.64,13,93,4,1105.28,Germany,Paid Ads,Bank Transfer,Kitchenware,High
+C0135,2304.42,2,38,2,1152.21,United Kingdom,Social Media,Credit Card,Stationery,Medium
+C0136,8797.80,12,90,2,733.15,Australia,Paid Ads,Credit Card,Textiles,Medium
+C0137,4551.12,9,81,1,505.68,Australia,Social Media,Credit Card,Stationery,Medium
+C0138,8778.60,10,72,2,877.86,United Kingdom,Paid Ads,PayPal,Textiles,Medium
+C0139,10111.52,8,66,3,1263.94,France,Email,Credit Card,Giftware,High
+C0140,3035.23,11,77,1,275.93,United Kingdom,Paid Ads,Credit Card,Textiles,Low
+C0141,2778.56,2,9,4,1389.28,Germany,Email,Credit Card,Home Decor,Medium
+C0142,6878.76,14,106,2,491.34,Germany,Paid Ads,Debit Card,Stationery,Medium
+C0143,6862.44,13,96,3,527.88,USA,Email,Debit Card,Textiles,Medium
+C0144,17463.71,11,96,4,1587.61,France,Referral,Credit Card,Giftware,High
+C0145,9444.93,11,109,2,858.63,Germany,Paid Ads,PayPal,Kitchenware,High
+C0146,2560.00,4,33,1,640.00,United Kingdom,Paid Ads,Credit Card,Textiles,Low
+C0147,5869.99,7,51,3,838.57,Germany,Social Media,Debit Card,Textiles,Medium
+C0148,6090.42,7,56,2,870.06,USA,Email,PayPal,Home Decor,Medium
+C0149,6371.76,6,45,2,1061.96,France,Email,Credit Card,Stationery,Medium
+C0150,2896.90,5,48,1,579.38,USA,Paid Ads,Credit Card,Stationery,Low
+C0151,14365.80,9,74,5,1596.20,Netherlands,Email,Credit Card,Stationery,High
+C0152,2078.70,6,39,1,346.45,Australia,Paid Ads,PayPal,Stationery,Low
+C0153,7564.59,9,67,3,840.51,USA,Social Media,Credit Card,Stationery,Medium
+C0154,639.40,1,6,1,639.40,Australia,Organic Search,Credit Card,Home Decor,Low
+C0155,3050.10,10,63,1,305.01,United Kingdom,Referral,Credit Card,Kitchenware,Low
+C0156,3882.63,3,29,2,1294.21,Germany,Social Media,Credit Card,Home Decor,Medium
+C0157,2528.28,4,24,2,632.07,Netherlands,Paid Ads,Debit Card,Kitchenware,Low
+C0158,10846.05,15,120,3,723.07,USA,Email,Debit Card,Kitchenware,High
+C0159,2504.55,5,68,1,500.91,Australia,Organic Search,PayPal,Textiles,Low
+C0160,11068.20,9,84,5,1229.80,United Kingdom,Email,Bank Transfer,Kitchenware,High
+C0161,4447.84,8,76,1,555.98,France,Organic Search,Credit Card,Home Decor,Medium
+C0162,6393.53,11,89,2,581.23,Australia,Organic Search,Debit Card,Textiles,Medium
+C0163,9309.72,12,107,3,775.81,USA,Social Media,Debit Card,Giftware,High
+C0164,9049.46,7,66,4,1292.78,France,Organic Search,Bank Transfer,Textiles,High
+C0165,18003.36,12,109,5,1500.28,Netherlands,Referral,Debit Card,Textiles,High
+C0166,4415.04,7,52,2,630.72,Australia,Paid Ads,Credit Card,Stationery,Low
+C0167,8561.36,8,63,2,1070.17,USA,Email,Debit Card,Kitchenware,Medium
+C0168,1892.98,2,11,1,946.49,Australia,Social Media,Credit Card,Home Decor,Low
+C0169,2316.05,5,42,1,463.21,Germany,Social Media,Credit Card,Home Decor,Low
+C0170,8709.25,11,80,3,791.75,USA,Organic Search,Debit Card,Stationery,Medium
+C0171,2765.43,9,68,2,307.27,France,Referral,Credit Card,Giftware,Low
+C0172,2770.20,5,42,2,554.04,France,Social Media,Credit Card,Stationery,Low
+C0173,3546.48,4,37,3,886.62,Germany,Email,Debit Card,Home Decor,Low
+C0174,2687.61,3,35,2,895.87,USA,Social Media,Debit Card,Textiles,Low
+C0175,4830.64,4,46,3,1207.66,USA,Email,Debit Card,Textiles,Medium
+C0176,1528.50,3,35,3,509.50,Netherlands,Paid Ads,Debit Card,Stationery,Low
+C0177,2614.28,2,8,4,1307.14,Australia,Organic Search,Credit Card,Kitchenware,Medium
+C0178,7047.25,7,66,3,1006.75,Australia,Paid Ads,PayPal,Giftware,Medium
+C0179,4699.15,5,41,3,939.83,USA,Referral,Credit Card,Textiles,Medium
+C0180,4107.53,7,60,2,586.79,Netherlands,Social Media,Credit Card,Kitchenware,Low
+C0181,2448.82,2,40,5,1224.41,Australia,Paid Ads,PayPal,Stationery,Medium
+C0182,5329.86,6,54,2,888.31,France,Referral,Debit Card,Stationery,Medium
+C0183,1137.56,2,22,1,568.78,USA,Referral,Credit Card,Kitchenware,Low
+C0184,4028.72,4,33,3,1007.18,Australia,Social Media,PayPal,Stationery,Medium
+C0185,1977.14,2,34,1,988.57,France,Email,PayPal,Kitchenware,Medium
+C0186,16904.80,11,83,4,1536.80,United Kingdom,Email,PayPal,Kitchenware,High
+C0187,5421.78,9,83,3,602.42,France,Referral,Bank Transfer,Kitchenware,Medium
+C0188,3843.72,6,40,1,640.62,USA,Organic Search,Credit Card,Kitchenware,Low
+C0189,9803.20,11,90,3,891.20,France,Email,Credit Card,Stationery,High
+C0190,5967.52,8,53,3,745.94,Germany,Paid Ads,Credit Card,Kitchenware,Low
+C0191,5225.85,9,89,2,580.65,Germany,Social Media,PayPal,Textiles,Medium
+C0192,8395.45,5,53,4,1679.09,Germany,Paid Ads,Credit Card,Home Decor,High
+C0193,1448.92,2,34,2,724.46,USA,Referral,PayPal,Textiles,Low
+C0194,3806.70,10,86,2,380.67,Australia,Email,Credit Card,Stationery,Low
+C0195,14598.88,16,110,3,912.43,United Kingdom,Social Media,Debit Card,Giftware,High
+C0196,1387.78,2,20,2,693.89,United Kingdom,Referral,Debit Card,Kitchenware,Low
+C0197,6658.80,6,38,2,1109.80,United Kingdom,Paid Ads,Debit Card,Kitchenware,Medium
+C0198,5690.72,4,29,3,1422.68,USA,Social Media,Debit Card,Kitchenware,Medium
+C0199,12115.29,11,91,4,1101.39,USA,Organic Search,Credit Card,Kitchenware,High
+C0200,2623.56,12,91,1,218.63,France,Paid Ads,Debit Card,Kitchenware,Low
+C0201,8714.40,12,99,4,726.20,Netherlands,Social Media,Credit Card,Home Decor,Medium
+C0202,14224.54,11,90,5,1293.14,Germany,Social Media,Credit Card,Kitchenware,High
+C0203,3476.92,4,35,2,869.23,Netherlands,Organic Search,Debit Card,Textiles,Low
+C0204,25229.40,15,117,5,1681.96,Australia,Social Media,PayPal,Home Decor,High
+C0205,8403.43,7,73,2,1200.49,Netherlands,Paid Ads,Credit Card,Textiles,High
+C0206,2420.48,4,42,2,605.12,United Kingdom,Email,Bank Transfer,Giftware,Low
+C0207,786.65,1,11,2,786.65,United Kingdom,Organic Search,Credit Card,Textiles,Low
+C0208,2280.25,5,55,1,456.05,United Kingdom,Paid Ads,Debit Card,Stationery,Low
+C0209,1952.00,8,57,1,244.00,Australia,Paid Ads,PayPal,Textiles,Low
+C0210,4583.65,5,41,2,916.73,Netherlands,Referral,Debit Card,Stationery,Medium
+C0211,5018.32,4,44,4,1254.58,Germany,Organic Search,Bank Transfer,Textiles,Medium
+C0212,5667.12,4,30,4,1416.78,United Kingdom,Referral,PayPal,Kitchenware,Medium
+C0213,5468.82,6,66,3,911.47,Germany,Organic Search,Bank Transfer,Home Decor,Medium
+C0214,3658.40,4,46,3,914.60,Netherlands,Referral,PayPal,Textiles,Medium
+C0215,4464.00,10,67,2,446.40,United Kingdom,Organic Search,Debit Card,Textiles,Low
+C0216,6821.28,8,63,4,852.66,Germany,Organic Search,Credit Card,Giftware,Medium
+C0217,2517.87,3,37,3,839.29,USA,Social Media,Bank Transfer,Home Decor,Low
+C0218,7046.93,11,97,3,640.63,USA,Paid Ads,Credit Card,Kitchenware,Medium
+C0219,7060.41,9,52,3,784.49,Netherlands,Referral,Credit Card,Textiles,Medium
+C0220,2542.26,7,82,1,363.18,Netherlands,Email,Credit Card,Textiles,Low
+C0221,6304.60,5,34,3,1260.92,Germany,Email,PayPal,Home Decor,Medium
+C0222,5039.68,4,28,3,1259.92,United Kingdom,Organic Search,Credit Card,Stationery,Medium
+C0223,15253.55,13,111,5,1173.35,Germany,Organic Search,PayPal,Kitchenware,High
+C0224,11326.14,14,115,5,809.01,Netherlands,Social Media,Credit Card,Stationery,High
+C0225,4733.10,6,30,2,788.85,Australia,Email,Debit Card,Giftware,Low
+C0226,7243.86,6,59,3,1207.31,France,Referral,Debit Card,Giftware,High
+C0227,16203.59,13,98,3,1246.43,Australia,Paid Ads,Debit Card,Kitchenware,High
+C0228,5310.12,6,47,4,885.02,USA,Social Media,Debit Card,Kitchenware,Medium
+C0229,4551.84,6,53,2,758.64,USA,Email,PayPal,Textiles,Medium
+C0230,12811.59,11,82,3,1164.69,Australia,Email,Bank Transfer,Stationery,High
+C0231,7927.37,11,105,2,720.67,USA,Social Media,Credit Card,Home Decor,Medium
+C0232,3721.85,11,102,3,338.35,USA,Paid Ads,Debit Card,Textiles,Medium
+C0233,9407.97,11,83,3,855.27,France,Paid Ads,Credit Card,Home Decor,Medium
+C0234,3382.72,4,35,2,845.68,United Kingdom,Paid Ads,Bank Transfer,Stationery,Low
+C0235,2521.64,2,33,3,1260.82,Netherlands,Referral,Bank Transfer,Kitchenware,Medium
+C0236,8659.56,7,59,3,1237.08,Netherlands,Referral,Debit Card,Textiles,High
+C0237,3986.15,5,34,1,797.23,Australia,Email,Debit Card,Giftware,Low
+C0238,4053.42,7,75,3,579.06,United Kingdom,Paid Ads,Credit Card,Stationery,Medium
+C0239,6108.65,5,27,3,1221.73,Netherlands,Referral,PayPal,Kitchenware,Medium
+C0240,7616.40,11,93,3,692.40,Australia,Organic Search,PayPal,Kitchenware,Medium
+C0241,7019.10,6,39,4,1169.85,Australia,Referral,Credit Card,Home Decor,Medium
+C0242,4872.84,12,112,2,406.07,Netherlands,Social Media,Debit Card,Textiles,Medium
+C0243,15309.50,10,73,5,1530.95,USA,Social Media,PayPal,Textiles,High
+C0244,6961.36,7,65,3,994.48,Germany,Email,Debit Card,Stationery,Medium
+C0245,14212.10,14,107,3,1015.15,Netherlands,Organic Search,Debit Card,Giftware,High
+C0246,11163.10,10,80,2,1116.31,Germany,Referral,PayPal,Giftware,High
+C0247,2963.97,9,82,1,329.33,Germany,Email,Bank Transfer,Giftware,Low
+C0248,7278.04,7,40,4,1039.72,USA,Referral,Debit Card,Kitchenware,Medium
+C0249,5464.80,9,76,3,607.20,Australia,Organic Search,PayPal,Home Decor,Medium
+C0250,3301.86,3,32,2,1100.62,Australia,Organic Search,Bank Transfer,Textiles,Medium
+C0251,5688.60,4,29,3,1422.15,United Kingdom,Referral,Credit Card,Textiles,Medium
+C0252,729.93,3,29,2,243.31,Germany,Paid Ads,Credit Card,Giftware,Low
+C0253,2919.16,4,28,3,729.79,Germany,Organic Search,Credit Card,Kitchenware,Low
+C0254,13624.02,9,51,5,1513.78,France,Social Media,Credit Card,Textiles,High
+C0255,10240.92,9,79,4,1137.88,France,Email,Credit Card,Kitchenware,High
+C0256,6352.74,9,67,3,705.86,Australia,Organic Search,Credit Card,Kitchenware,Medium
+C0257,5494.45,5,48,3,1098.89,Australia,Referral,Credit Card,Kitchenware,Medium
+C0258,9400.62,6,54,5,1566.77,Australia,Social Media,Credit Card,Home Decor,High
+C0259,6611.80,5,41,2,1322.36,France,Social Media,Credit Card,Giftware,Medium
+C0260,12779.91,13,104,4,983.07,France,Paid Ads,Credit Card,Textiles,High
+C0261,5138.16,8,79,1,642.27,Germany,Referral,PayPal,Giftware,Medium
+C0262,3679.50,6,53,2,613.25,USA,Paid Ads,PayPal,Stationery,Low
+C0263,5355.68,4,55,3,1338.92,Germany,Paid Ads,Debit Card,Giftware,High
+C0264,9983.52,9,63,2,1109.28,Germany,Organic Search,Credit Card,Textiles,Medium
+C0265,1325.20,1,14,4,1325.20,Netherlands,Email,Bank Transfer,Textiles,Medium
+C0266,4679.01,3,31,4,1559.67,France,Organic Search,Debit Card,Home Decor,High
+C0267,12043.08,9,67,4,1338.12,Netherlands,Social Media,PayPal,Kitchenware,High
+C0268,2533.75,5,37,3,506.75,Germany,Email,Debit Card,Stationery,Low
+C0269,13227.48,9,82,3,1469.72,Germany,Paid Ads,PayPal,Textiles,High
+C0270,20212.32,12,101,5,1684.36,United Kingdom,Referral,Debit Card,Kitchenware,High
+C0271,6002.30,10,80,2,600.23,Germany,Referral,Debit Card,Stationery,Medium
+C0272,20091.24,13,99,5,1545.48,France,Organic Search,Debit Card,Stationery,High
+C0273,8680.26,6,45,3,1446.71,Germany,Referral,PayPal,Kitchenware,High
+C0274,11849.50,10,95,4,1184.95,USA,Referral,PayPal,Giftware,High
+C0275,9965.30,10,99,4,996.53,Germany,Organic Search,Debit Card,Textiles,High
+C0276,4067.76,6,56,2,677.96,United Kingdom,Social Media,Credit Card,Giftware,Low
+C0277,3942.76,4,35,2,985.69,Germany,Organic Search,Credit Card,Giftware,Medium
+C0278,17717.48,11,98,5,1610.68,Netherlands,Social Media,PayPal,Kitchenware,High
+C0279,6141.75,5,63,3,1228.35,Germany,Referral,Credit Card,Home Decor,High
+C0280,13544.18,13,93,3,1041.86,USA,Social Media,Credit Card,Stationery,High
+C0281,5894.34,6,60,2,982.39,France,Email,Debit Card,Stationery,Medium
+C0282,4785.60,8,79,3,598.20,France,Referral,Debit Card,Home Decor,Medium
+C0283,2682.00,4,36,1,670.50,United Kingdom,Referral,Credit Card,Giftware,Low
+C0284,2944.74,3,42,3,981.58,Germany,Social Media,Debit Card,Textiles,Medium
+C0285,12122.44,11,105,5,1102.04,United Kingdom,Referral,Credit Card,Stationery,High
+C0286,2489.40,4,24,1,622.35,USA,Referral,Bank Transfer,Giftware,Low
+C0287,1846.85,5,49,1,369.37,Australia,Social Media,Credit Card,Home Decor,Low
+C0288,9053.20,8,72,5,1131.65,Netherlands,Referral,Credit Card,Giftware,High
+C0289,3125.43,3,35,4,1041.81,Germany,Referral,Bank Transfer,Kitchenware,Medium
+C0290,6262.40,5,35,3,1252.48,United Kingdom,Social Media,Credit Card,Stationery,Medium
+C0291,7066.85,7,69,4,1009.55,Australia,Organic Search,Credit Card,Kitchenware,Medium
+C0292,5232.78,9,79,2,581.42,Germany,Referral,Credit Card,Kitchenware,Medium
+C0293,5354.00,5,33,2,1070.80,France,Email,Credit Card,Textiles,Medium
+C0294,7731.23,13,119,2,594.71,Germany,Paid Ads,Debit Card,Textiles,Medium
+C0295,5823.30,7,64,3,831.90,USA,Email,Debit Card,Giftware,Medium
+C0296,5633.16,12,84,3,469.43,Netherlands,Email,Debit Card,Home Decor,Medium
+C0297,6664.45,5,51,3,1332.89,Germany,Referral,Credit Card,Stationery,High
+C0298,10477.92,6,62,5,1746.32,Germany,Referral,Credit Card,Textiles,High
+C0299,10324.80,8,72,4,1290.60,Netherlands,Paid Ads,Debit Card,Stationery,High
+C0300,3119.04,9,70,1,346.56,United Kingdom,Paid Ads,Credit Card,Stationery,Low
+C0301,10249.96,14,116,3,732.14,USA,Organic Search,Bank Transfer,Home Decor,High
+C0302,2574.90,9,73,2,286.10,Germany,Organic Search,Credit Card,Textiles,Low
+C0303,9855.81,9,88,4,1095.09,France,Referral,Debit Card,Giftware,High
+C0304,8176.90,10,96,4,817.69,USA,Social Media,Debit Card,Giftware,Medium
+C0305,4077.36,6,51,2,679.56,Netherlands,Social Media,Credit Card,Stationery,Low
+C0306,11798.16,11,78,4,1072.56,United Kingdom,Email,Credit Card,Stationery,High
+C0307,5800.10,10,83,2,580.01,USA,Organic Search,Bank Transfer,Stationery,Medium
+C0308,5082.84,7,63,2,726.12,Germany,Email,Debit Card,Stationery,Medium
+C0309,3705.59,7,51,2,529.37,United Kingdom,Paid Ads,PayPal,Giftware,Low
+C0310,1358.02,2,27,1,679.01,France,Referral,Credit Card,Home Decor,Low
+C0311,7847.56,7,44,2,1121.08,France,Paid Ads,Bank Transfer,Home Decor,Medium
+C0312,6411.42,6,57,4,1068.57,United Kingdom,Paid Ads,Credit Card,Stationery,Medium
+C0313,5655.90,5,41,3,1131.18,Germany,Email,PayPal,Textiles,Medium
+C0314,17727.38,11,118,5,1611.58,Netherlands,Organic Search,Bank Transfer,Home Decor,High
+C0315,3795.30,10,94,3,379.53,United Kingdom,Email,Credit Card,Kitchenware,Medium
+C0316,8164.32,8,75,3,1020.54,United Kingdom,Social Media,Bank Transfer,Stationery,Medium
+C0317,6262.63,11,84,1,569.33,Netherlands,Social Media,Credit Card,Giftware,Medium
+C0318,1702.54,2,26,3,851.27,Germany,Organic Search,PayPal,Kitchenware,Low
+C0319,4898.55,5,48,2,979.71,Netherlands,Email,Debit Card,Textiles,Medium
+C0320,8601.18,7,56,3,1228.74,France,Paid Ads,Debit Card,Giftware,High
+C0321,10545.85,7,91,3,1506.55,Germany,Paid Ads,PayPal,Giftware,High
+C0322,9059.58,9,77,3,1006.62,Australia,Email,Debit Card,Kitchenware,Medium
+C0323,5082.68,4,42,3,1270.67,Germany,Email,Credit Card,Stationery,Medium
+C0324,1796.12,4,38,1,449.03,United Kingdom,Organic Search,Credit Card,Textiles,Low
+C0325,1191.94,1,4,2,1191.94,USA,Paid Ads,Credit Card,Giftware,Low
+C0326,8502.70,10,82,2,850.27,Netherlands,Organic Search,PayPal,Textiles,Medium
+C0327,2318.33,7,46,1,331.19,France,Social Media,Credit Card,Stationery,Low
+C0328,6589.30,5,58,3,1317.86,USA,Paid Ads,Credit Card,Textiles,High
+C0329,8166.07,11,81,2,742.37,Germany,Email,Credit Card,Kitchenware,Medium
+C0330,6510.33,9,57,3,723.37,USA,Paid Ads,Credit Card,Home Decor,Medium
+C0331,2525.28,8,62,2,315.66,USA,Social Media,PayPal,Textiles,Low
+C0332,6941.20,8,73,3,867.65,France,Email,Debit Card,Stationery,Medium
+C0333,5164.08,8,41,1,645.51,USA,Social Media,Debit Card,Kitchenware,Low
+C0334,5380.24,4,49,3,1345.06,USA,Paid Ads,Credit Card,Giftware,High
+C0335,8380.90,10,92,3,838.09,Australia,Paid Ads,Debit Card,Giftware,Medium
+C0336,3883.60,4,31,4,970.90,Germany,Email,PayPal,Kitchenware,Medium
+C0337,3709.20,6,35,1,618.20,United Kingdom,Email,Debit Card,Home Decor,Low
+C0338,4887.66,6,55,3,814.61,Australia,Referral,Credit Card,Textiles,Medium
+C0339,13389.09,11,92,4,1217.19,United Kingdom,Organic Search,Credit Card,Stationery,High
+C0340,7896.05,5,26,3,1579.21,USA,Paid Ads,Credit Card,Giftware,High
+C0341,11401.83,9,91,3,1266.87,Germany,Email,Credit Card,Textiles,High
+C0342,5052.88,7,44,2,721.84,United Kingdom,Paid Ads,Bank Transfer,Textiles,Low
+C0343,8327.12,8,51,3,1040.89,France,Organic Search,Debit Card,Kitchenware,Medium
+C0344,9564.24,8,67,4,1195.53,United Kingdom,Social Media,PayPal,Textiles,High
+C0345,15862.60,13,94,5,1220.20,France,Paid Ads,Debit Card,Textiles,High
+C0346,10118.80,8,49,4,1264.85,USA,Paid Ads,Credit Card,Giftware,Medium
+C0347,18069.09,13,87,4,1389.93,Netherlands,Email,Debit Card,Textiles,High
+C0348,11186.90,10,91,4,1118.69,United Kingdom,Paid Ads,PayPal,Stationery,High
+C0349,1313.27,1,18,4,1313.27,United Kingdom,Referral,Debit Card,Textiles,Medium
+C0350,15952.53,11,86,3,1450.23,USA,Email,Credit Card,Giftware,High
+C0351,11062.24,7,53,4,1580.32,United Kingdom,Email,Credit Card,Kitchenware,High
+C0352,12292.61,11,95,3,1117.51,USA,Paid Ads,Credit Card,Stationery,High
+C0353,5276.56,8,58,2,659.57,Netherlands,Social Media,Debit Card,Stationery,Low
+C0354,7137.92,8,80,3,892.24,France,Referral,Credit Card,Stationery,Medium
+C0355,8000.37,9,75,2,888.93,Germany,Email,Credit Card,Stationery,Medium
+C0356,17514.72,12,100,4,1459.56,Germany,Organic Search,Credit Card,Giftware,High
+C0357,5158.78,11,76,1,468.98,United Kingdom,Paid Ads,Credit Card,Home Decor,Low
+C0358,7274.08,8,69,5,909.26,United Kingdom,Email,Debit Card,Stationery,Medium
+C0359,7199.10,6,37,3,1199.85,Australia,Email,Credit Card,Textiles,Medium
+C0360,4921.68,12,84,2,410.14,USA,Referral,Credit Card,Stationery,Low
+C0361,7453.95,7,64,3,1064.85,Germany,Organic Search,PayPal,Textiles,Medium
+C0362,5286.64,8,56,3,660.83,United Kingdom,Paid Ads,Credit Card,Textiles,Low
+C0363,12332.40,10,82,4,1233.24,Australia,Paid Ads,Bank Transfer,Textiles,High
+C0364,12453.12,12,107,5,1037.76,Australia,Social Media,Credit Card,Textiles,High
+C0365,10623.69,9,68,3,1180.41,Australia,Paid Ads,Credit Card,Kitchenware,High
+C0366,11916.18,9,68,4,1324.02,France,Email,Credit Card,Textiles,High
+C0367,11272.64,8,43,4,1409.08,Netherlands,Referral,Credit Card,Textiles,High
+C0368,4314.16,8,86,2,539.27,Australia,Email,PayPal,Home Decor,Medium
+C0369,2527.98,7,65,1,361.14,Australia,Paid Ads,PayPal,Giftware,Low
+C0370,10038.21,7,62,3,1434.03,United Kingdom,Paid Ads,PayPal,Kitchenware,High
+C0371,10965.15,9,73,4,1218.35,Australia,Email,PayPal,Giftware,High
+C0372,9123.30,6,48,4,1520.55,Netherlands,Email,Bank Transfer,Textiles,High
+C0373,1382.22,3,43,1,460.74,USA,Email,Debit Card,Giftware,Low
+C0374,3707.68,8,67,2,463.46,United Kingdom,Social Media,PayPal,Textiles,Low
+C0375,7145.20,10,93,3,714.52,Germany,Organic Search,Debit Card,Stationery,Medium
+C0376,5418.50,5,38,3,1083.70,USA,Paid Ads,Credit Card,Textiles,Medium
+C0377,4691.31,13,106,2,360.87,France,Referral,Debit Card,Textiles,Medium
+C0378,11883.27,7,50,4,1697.61,Australia,Referral,Credit Card,Kitchenware,High
+C0379,3850.60,4,30,3,962.65,Australia,Paid Ads,Debit Card,Kitchenware,Low
+C0380,17618.51,13,110,4,1355.27,United Kingdom,Paid Ads,Credit Card,Kitchenware,High
+C0381,14540.40,10,80,4,1454.04,United Kingdom,Social Media,Debit Card,Textiles,High
+C0382,4366.76,4,39,3,1091.69,Germany,Referral,Credit Card,Stationery,Medium
+C0383,353.74,1,8,1,353.74,Netherlands,Organic Search,Credit Card,Stationery,Low
+C0384,10554.40,8,60,4,1319.30,France,Email,Debit Card,Home Decor,High
+C0385,6687.46,13,106,3,514.42,France,Paid Ads,PayPal,Stationery,Medium
+C0386,6985.28,4,33,4,1746.32,Netherlands,Referral,Debit Card,Textiles,High
+C0387,7885.40,10,98,3,788.54,France,Organic Search,Debit Card,Stationery,Medium
+C0388,1152.40,4,46,2,288.10,Australia,Paid Ads,Debit Card,Giftware,Low
+C0389,7660.73,7,63,3,1094.39,Germany,Organic Search,Credit Card,Textiles,Medium
+C0390,2739.39,3,24,3,913.13,France,Referral,Credit Card,Textiles,Low
+C0391,6408.40,8,61,3,801.05,USA,Organic Search,Debit Card,Textiles,Medium
+C0392,10991.36,8,52,4,1373.92,Australia,Organic Search,Credit Card,Giftware,High
+C0393,2325.00,2,37,3,1162.50,Germany,Referral,Debit Card,Textiles,Medium
+C0394,9593.01,7,55,3,1370.43,Australia,Social Media,PayPal,Stationery,High
+C0395,4429.36,8,60,1,553.67,Australia,Paid Ads,Credit Card,Textiles,Low
+C0396,8971.60,10,84,3,897.16,Australia,Referral,Bank Transfer,Home Decor,Medium
+C0397,742.98,6,48,1,123.83,Netherlands,Email,Debit Card,Textiles,Low
+C0398,2709.84,12,90,1,225.82,Australia,Social Media,Debit Card,Stationery,Low
+C0399,1689.72,6,57,2,281.62,Germany,Referral,PayPal,Stationery,Low
+C0400,5326.10,5,37,3,1065.22,Germany,Organic Search,PayPal,Giftware,Medium
+C0401,3566.08,8,64,2,445.76,Germany,Paid Ads,Bank Transfer,Giftware,Low
+C0402,5909.58,9,59,2,656.62,Australia,Organic Search,Debit Card,Textiles,Low
+C0403,16042.26,13,108,4,1234.02,USA,Email,Debit Card,Home Decor,High
+C0404,9794.04,6,54,4,1632.34,United Kingdom,Referral,Debit Card,Home Decor,High
+C0405,1379.84,4,34,1,344.96,United Kingdom,Organic Search,PayPal,Giftware,Low
+C0406,2340.24,8,53,1,292.53,France,Organic Search,Credit Card,Kitchenware,Low
+C0407,1834.04,2,23,2,917.02,Australia,Social Media,Debit Card,Textiles,Low
+C0408,4057.44,4,31,3,1014.36,Australia,Social Media,Credit Card,Kitchenware,Medium
+C0409,7202.47,11,88,3,654.77,United Kingdom,Paid Ads,PayPal,Kitchenware,Medium
+C0410,15419.00,10,83,3,1541.90,Germany,Organic Search,Bank Transfer,Textiles,High
+C0411,6624.09,9,82,2,736.01,United Kingdom,Organic Search,Credit Card,Kitchenware,Medium
+C0412,4192.44,4,43,2,1048.11,Australia,Paid Ads,PayPal,Giftware,Medium
+C0413,2301.66,3,31,2,767.22,Netherlands,Social Media,Credit Card,Home Decor,Low
+C0414,1087.28,2,18,2,543.64,Germany,Referral,Credit Card,Giftware,Low
+C0415,5606.01,9,94,2,622.89,USA,Organic Search,Credit Card,Home Decor,Medium
+C0416,3550.90,10,88,2,355.09,Germany,Referral,Debit Card,Textiles,Low
+C0417,7264.96,8,59,3,908.12,France,Organic Search,PayPal,Kitchenware,Medium
+C0418,7319.52,9,86,2,813.28,France,Paid Ads,Credit Card,Giftware,Medium
+C0419,4816.68,4,64,4,1204.17,Germany,Organic Search,Debit Card,Home Decor,High
+C0420,4263.18,3,31,3,1421.06,France,Organic Search,Credit Card,Giftware,Medium
+C0421,5142.44,4,33,3,1285.61,United Kingdom,Email,Credit Card,Stationery,Medium
+C0422,3582.65,5,33,2,716.53,USA,Referral,Debit Card,Giftware,Low
+C0423,8086.38,6,54,3,1347.73,USA,Social Media,Credit Card,Giftware,High
+C0424,8311.52,7,51,2,1187.36,Netherlands,Referral,Debit Card,Home Decor,Medium
+C0425,5017.20,10,99,3,501.72,Germany,Referral,Debit Card,Stationery,Medium
+C0426,8080.80,6,56,3,1346.80,Australia,Organic Search,Bank Transfer,Textiles,High
+C0427,8152.47,9,61,4,905.83,United Kingdom,Referral,Credit Card,Stationery,Medium
+C0428,2665.08,4,51,2,666.27,Germany,Email,Debit Card,Stationery,Low
+C0429,6570.16,8,67,3,821.27,United Kingdom,Referral,Credit Card,Giftware,Medium
+C0430,1066.65,3,30,2,355.55,USA,Social Media,Bank Transfer,Stationery,Low
+C0431,6140.10,6,56,3,1023.35,Australia,Organic Search,PayPal,Giftware,Medium
+C0432,2335.13,7,68,3,333.59,Australia,Paid Ads,Debit Card,Giftware,Low
+C0433,8618.39,11,87,3,783.49,United Kingdom,Email,PayPal,Giftware,Medium
+C0434,20641.74,14,113,4,1474.41,USA,Paid Ads,Credit Card,Giftware,High
+C0435,12030.48,9,67,3,1336.72,United Kingdom,Paid Ads,Debit Card,Home Decor,High
+C0436,5263.04,8,73,2,657.88,United Kingdom,Social Media,PayPal,Kitchenware,Medium
+C0437,13488.97,11,101,3,1226.27,France,Referral,Debit Card,Home Decor,High
+C0438,12911.04,12,85,3,1075.92,United Kingdom,Email,Credit Card,Stationery,High
+C0439,7027.38,6,48,3,1171.23,Australia,Paid Ads,Credit Card,Textiles,Medium
+C0440,9469.76,8,53,4,1183.72,Australia,Email,Credit Card,Kitchenware,Medium
+C0441,5736.78,9,74,2,637.42,USA,Email,Debit Card,Giftware,Medium
+C0442,10046.40,12,90,2,837.20,USA,Referral,PayPal,Giftware,Medium
+C0443,8666.70,7,60,4,1238.10,United Kingdom,Paid Ads,Bank Transfer,Stationery,High
+C0444,451.58,1,17,1,451.58,Netherlands,Paid Ads,PayPal,Giftware,Low
+C0445,3736.80,3,21,2,1245.60,USA,Paid Ads,Credit Card,Stationery,Medium
+C0446,17533.56,12,84,5,1461.13,Netherlands,Social Media,Credit Card,Kitchenware,High
+C0447,4218.44,4,42,1,1054.61,USA,Social Media,PayPal,Stationery,Medium
+C0448,2191.77,9,83,1,243.53,United Kingdom,Paid Ads,Credit Card,Giftware,Low
+C0449,12705.44,11,92,3,1155.04,United Kingdom,Referral,Credit Card,Textiles,High
+C0450,8309.04,8,70,3,1038.63,Germany,Organic Search,PayPal,Textiles,Medium
+C0451,22985.40,15,114,5,1532.36,USA,Social Media,Credit Card,Textiles,High
+C0452,12366.16,8,63,5,1545.77,Australia,Paid Ads,Debit Card,Stationery,High
+C0453,2318.54,7,50,1,331.22,Germany,Email,PayPal,Stationery,Low
+C0454,4584.60,6,47,3,764.10,Netherlands,Paid Ads,Credit Card,Stationery,Low
+C0455,5983.83,9,68,3,664.87,United Kingdom,Paid Ads,Credit Card,Stationery,Medium
+C0456,1088.10,1,11,2,1088.10,Germany,Email,Bank Transfer,Giftware,Low
+C0457,4202.50,5,49,1,840.50,Australia,Organic Search,Debit Card,Giftware,Medium
+C0458,5102.40,12,111,2,425.20,Australia,Email,Credit Card,Giftware,Medium
+C0459,9014.40,9,73,4,1001.60,USA,Referral,PayPal,Home Decor,Medium
+C0460,1471.00,4,35,1,367.75,United Kingdom,Paid Ads,Credit Card,Home Decor,Low
+C0461,5707.20,12,97,2,475.60,United Kingdom,Referral,Credit Card,Giftware,Medium
+C0462,4507.08,4,47,3,1126.77,Australia,Organic Search,Debit Card,Home Decor,Medium
+C0463,4621.23,9,80,2,513.47,United Kingdom,Referral,PayPal,Home Decor,Medium
+C0464,4874.31,7,56,2,696.33,Germany,Organic Search,Credit Card,Stationery,Low
+C0465,1528.16,4,27,2,382.04,United Kingdom,Referral,PayPal,Kitchenware,Low
+C0466,14660.91,11,92,5,1332.81,Australia,Social Media,Credit Card,Stationery,High
+C0467,8887.62,7,64,2,1269.66,Germany,Paid Ads,PayPal,Textiles,High
+C0468,11114.72,8,93,4,1389.34,Germany,Referral,Debit Card,Home Decor,High
+C0469,1883.98,2,4,3,941.99,USA,Social Media,Credit Card,Kitchenware,Low
+C0470,5788.70,5,34,4,1157.74,United Kingdom,Social Media,Debit Card,Kitchenware,Medium
+C0471,15484.59,11,78,3,1407.69,France,Social Media,Bank Transfer,Home Decor,High
+C0472,12626.30,10,87,4,1262.63,Germany,Social Media,Debit Card,Home Decor,High
+C0473,3250.10,10,96,2,325.01,Australia,Email,PayPal,Giftware,Low
+C0474,2283.20,4,47,2,570.80,Australia,Social Media,Debit Card,Kitchenware,Low
+C0475,10047.76,8,88,4,1255.97,USA,Email,Debit Card,Home Decor,High
+C0476,9029.88,12,97,3,752.49,United Kingdom,Organic Search,Credit Card,Stationery,Medium
+C0477,13277.12,8,65,4,1659.64,Germany,Social Media,Credit Card,Kitchenware,High
+C0478,4956.64,8,51,1,619.58,Australia,Email,PayPal,Kitchenware,Low
+C0479,2893.44,4,72,2,723.36,United Kingdom,Referral,Debit Card,Giftware,Medium
+C0480,11303.73,9,69,3,1255.97,United Kingdom,Social Media,Debit Card,Kitchenware,High
+C0481,11594.77,11,78,4,1054.07,Australia,Paid Ads,Debit Card,Giftware,High
+C0482,11290.56,12,97,4,940.88,Germany,Social Media,Credit Card,Kitchenware,High
+C0483,12115.20,10,79,4,1211.52,Australia,Referral,PayPal,Stationery,High
+C0484,1541.61,3,21,2,513.87,France,Social Media,Debit Card,Textiles,Low
+C0485,2205.51,3,34,2,735.17,United Kingdom,Referral,Bank Transfer,Giftware,Low
+C0486,7832.34,9,67,3,870.26,France,Email,Credit Card,Stationery,Medium
+C0487,922.86,3,23,1,307.62,France,Organic Search,Credit Card,Stationery,Low
+C0488,13236.16,8,52,5,1654.52,France,Email,Credit Card,Stationery,High
+C0489,8279.44,8,70,2,1034.93,Australia,Email,Credit Card,Giftware,Medium
+C0490,12972.30,11,101,3,1179.30,France,Paid Ads,Credit Card,Home Decor,High
+C0491,2711.64,6,57,1,451.94,France,Email,Credit Card,Home Decor,Low
+C0492,16769.61,11,81,5,1524.51,France,Referral,Credit Card,Giftware,High
+C0493,6589.20,10,81,1,658.92,France,Paid Ads,Credit Card,Kitchenware,Medium
+C0494,2310.34,2,28,3,1155.17,USA,Email,Credit Card,Stationery,Medium
+C0495,1250.08,1,35,4,1250.08,United Kingdom,Email,Credit Card,Kitchenware,Medium
+C0496,6657.00,10,87,3,665.70,Germany,Social Media,Debit Card,Home Decor,Medium
+C0497,12369.20,10,84,3,1236.92,Australia,Referral,PayPal,Kitchenware,High
+C0498,3142.80,8,84,1,392.85,USA,Referral,Debit Card,Kitchenware,Low
+C0499,4751.19,9,65,1,527.91,Netherlands,Social Media,Debit Card,Stationery,Low
+C0500,12670.83,9,71,4,1407.87,Australia,Paid Ads,Debit Card,Textiles,High

@@ -1,0 +1,23 @@
+# WEKA 运行时产物
+*.arff
+*.model
+*.model.bin
+weka-*.txt
+weka.*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# 临时文件
+*.tmp
+~$*

@@ -1,0 +1,260 @@
+--- Slide 1 ---
+Customer Segmentation and Purchase Pattern Analysis in Retail Industry
+A Data Mining Practice Using WEKA
+Date:2025/12/14
+Course：Data Mining
+Teacher:Dr. Summaira Jabeen
+Dataset:Online Retail.csv
+
+--- Slide 2 ---
+Forward
+Problem Statement:
+Retail industry faces challenges of diverse customer needs
+Traditional marketing methods are inefficient with low ROI
+Lack of data-driven deep customer insights
+Research Objectives:
+Apply complete data mining process to analyze customer behavior
+Compare performance of different classification and clustering algorithms
+Discover key purchase patterns and customer segmentation
+Provide data-driven decision support for precision marketing
+Project Significance:
+Demonstrate practical value of data mining in CRM
+Provide reusable analytical framework and methodology
+
+--- Slide 3 ---
+Dataset Description
+Basic Dataset Information:
+Data Source: Simulated retail transaction data
+Instances: 500 customer records
+Attributes: 10 behavioral features
+Data Types: 5 numerical + 5 categorical
+Key Attributes Description:
+TotalAmount: Total spending amount (Numerical, Ratio)
+OrderCount: Number of orders (Numerical, Ratio)
+ActiveDays: Active days (Numerical, Ratio)
+ProductVariety: Product diversity (Numerical, Ratio)
+Country: Customer country (Categorical, Nominal)
+CustomerValue: Customer value label (Categorical, Ordinal)
+Data Quality Assessment:
+Missing values: None
+Data consistency: Logically verified
+Data distribution: Relatively uniform across attributes
+
+--- Slide 4 ---
+Data Preprocessing
+Data Preprocessing Workflow:
+1. Data Cleaning
+• Missing Value Detection: No missing values
+• Outlier Handling: Retain reasonable business values
+2. Data Transformation
+• Normalization: Min-Max Scaling
+• Formula: X_normalized = (X - X_min) / (X_max - X_min)
+3. Feature Selection
+• Method: Information Gain Evaluation
+• Result: Key features identified - ActiveDays, TotalAmount
+Preprocessing Benefits:
+• Improved algorithm performance and interpretability
+• Reduced computational complexity
+• Enhanced model stability
+
+--- Slide 5 ---
+Association Analysis
+Association Rule Mining Method:
+• Algorithm Selection: Apriori Algorithm
+• Parameter Settings:
+- Minimum Support: 0.1 (10%)
+- Minimum Confidence: 0.7 (70%)
+- Maximum Number of Rules: 10
+Discovered Key Rules:
+Rule 1: High Activity → High Spending
+• Support: 15%, Confidence: 85%, Lift: 2.1
+Rule 2: Multiple Category Purchases → High Customer Value
+• Support: 12%, Confidence: 78%, Lift: 1.9
+Rule Evaluation Metrics:
+• Support: The prevalence of the rule
+• Confidence: The reliability of the rule
+• Lift: The strength of the rule's association
+
+--- Slide 6 ---
+Category -Methodology
+Comparative Study of Classification Algorithms:
+1. J48 Decision Tree (C4.5 Algorithm)
+• Advantages: High interpretability, handles mixed data types
+• Parameters: Confidence factor = 0.25, minimum leaf nodes = 2
+2. Naive Bayes Classifier
+• Advantages: High computational efficiency, suitable for high-dimensional data
+• Assumption: Feature conditional independence
+3. K-Nearest Neighbors (KNN)
+• Advantages: No training required, suitable for multi-class classification
+• Parameters: K = 10, Distance metric = Euclidean distance
+Model Evaluation Method:
+• Validation Method: 10-fold cross-validation
+
+--- Slide 7 ---
+Category - Results
+Result Analysis:
+• KNN algorithm has the highest accuracy (94.8%)
+• Naive Bayes has the fastest training speed
+• J48 decision tree has the best interpretability
+Business Insights:
+• Customer value prediction is highly feasible
+• Behavioral characteristics have strong predictive power for customer value
+
+--- Slide 8 ---
+Category - Model Interpretation
+Model Structure:
+• Root Node: AvgOrderValue > 0.568
+• Depth: 4 layers, Number of Leaf Nodes: 8
+• Complexity: Moderate, easy for business understanding
+Key Business Rules:
+Rule 1: If average order value > 0.568 and active days > 45 → High-value customer
+Rule 2: If average order value <= 0.568 but order frequency > 0.1 → Medium-value customer
+Business Application Value:
+• Provides the sales team with clear customer identification criteria
+• Supports precise marketing resource allocation decisions
+• Enables quantitative evaluation of customer value
+
+--- Slide 9 ---
+Clustering - Methods and Results
+K-Means Clustering Analysis:
+Parameter Configuration:
+• Number of clusters: K=3 (determined based on the elbow method)
+• Distance metric: Euclidean distance
+• Maximum iterations: 500
+• Initialization method: Random initialization
+Clustering Quality Evaluation:
+• Silhouette coefficient: 0.68 (well-separated)
+• SSE value: significantly decreasing trend
+• Inter-cluster distance: clearly separated
+
+--- Slide 10 ---
+Clustering - Visualization
+Visualization Insights:
+1. Dimension Separation Analysis
+• TotalAmount and ActiveDays show the most obvious separation
+• OrderCount and ProductVariety have a strong correlation
+2. Cluster Feature Identification
+• Cluster 3 (Core Customers): High spending and high activity concentration area
+• Cluster 1 (General Customers): Dense distribution in low-value areas
+• Cluster 2 (Potential Customers): Intermediate transition area
+Business Validation:
+• Clustering results are highly consistent with business understanding
+• Provides data support for differentiated marketing
+
+--- Slide 11 ---
+WEKA Experiment 1 - Data Preprocessing
+Preprocessing steps:
+1. Load the dataset: Online_Retail.csv
+2. Handle missing values: No missing values, skip this step
+3. Apply filters:
+- Normalization: Normalize filter
+- Feature selection: InfoGainAttributeEval
+4. Verify the results of data transformation
+Validation Results:
+Successfully completed data cleaning and transformation
+Identified the most predictive features
+Laid the foundation for subsequent analysis
+
+--- Slide 12 ---
+WEKA Experiment 2 - Classification Comparison
+WEKA Classification Algorithm Comparison Experiment:
+Experiment Design:
+• Target Variable: CustomerValue (High/Medium/Low)
+• Test Option: 10-fold Cross-Validation
+• Comparison Dimensions: Accuracy, Efficiency, Interpretability
+Algorithm Parameter Configuration:
+1. J48 Decision Tree
+• Classifier: trees.J48
+• Confidence Factor: 0.25
+2. Naive Bayes
+• Classifier: bayes.NaiveBayes
+• Use Kernel Estimator: false
+3. KNN Algorithm
+• Classifier: lazy.IBk
+• K Value: 10
+Experiment Conclusion:
+• All three algorithms were successfully implemented
+• Performance metrics are reproducible
+• Conclusion that KNN performs best is reliable
+
+--- Slide 13 ---
+WEKA Experiment 3 - Cluster Analysis
+Clustering Experiment Configuration:
+Clusterer: SimpleKMeans
+Distance Measure: Euclidean Distance
+Number of Clusters Evaluation: Elbow Method Validation
+Visualization: Cluster Distribution Chart
+Experimental Results:
+Successfully identified three meaningful customer groups
+Clustering quality metrics met expectations
+Good business interpretability
+
+--- Slide 14 ---
+Business application
+Precision Marketing Strategy Application:
+Customer Lifecycle Management:
+Introduction Stage: Identification and nurturing of potential customers (Cluster 2)
+Growth Stage: Cross-selling and upgrade incentives
+Maturity Stage: Deep maintenance of customer loyalty (Cluster 3)
+Decline Stage: Churn warning and retention strategies
+Optimization of Marketing Resource Allocation:
+Core Customers (Cluster 3):
+Dedicated customer service
+Personalized recommendations
+VIP privileges and priority services
+Potential Customers (Cluster 2):
+Targeted promotional activities
+Membership upgrade programs
+Growth path planning
+General Customers (Cluster 1):
+Standardized services
+Cost control
+Automated marketing processes
+
+--- Slide 15 ---
+Conclusion and Future Work
+Project Results Summary:
+Technical Achievements:
+1. Complete Process Implementation
+• Full-process practice from data preprocessing to model deployment
+• Verified the application value of data mining in real business scenarios
+2. Algorithm Performance Validation
+• Compared the performance of various classification and clustering algorithms
+• Determined the optimal solution (KNN accuracy 94.8%)
+3. Business Value Realization
+• Uncovered key insights that can guide actual business
+• Provided data-driven decision support for precision marketing
+Limitations Analysis:
+1. Data Limitations
+• Used simulated data, differing from real business data
+• Did not consider time series features and dynamic changes
+2. Algorithm Limitations
+• Did not attempt advanced algorithms such as deep learning
+• Lacked real-time capability and online learning ability
+Future Work Directions:
+1. Data Layer Expansion
+• Introduce real-time transaction data streams
+• Integrate multi-source data (social media, customer service records)
+2. Algorithm Layer Optimization
+• Explore deep learning models (LSTM, Transformer)
+• Implement online learning and real-time updates
+3. System Layer Development
+• Build a Customer Data Platform (CDP)
+• Develop a real-time recommendation engine
+
+--- Slide 16 ---
+References
+References:
+Academic Literature:
+1. Han, J., Kamber, M., & Pei, J. (2012). Data Mining: Concepts and Techniques. Morgan Kaufmann.
+2. Witten, I. H., Frank, E., & Hall, M. A. (2011). Data Mining: Practical Machine Learning Tools and Techniques. Morgan Kaufmann.
+Technical Tools:
+• WEKA Machine Learning Software (Version 3.8.6)
+• Dataset: Online Retail.csv
+Acknowledgements:
+Thanks to Dr. Summaira Jabeen for her careful guidance
+Thanks to GCTB-NSU for providing the academic research environment
+Thanks to the WEKA development team for their open-source contributions
+
+--- Slide 17 ---
+Thanks!
